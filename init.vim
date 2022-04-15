@@ -60,4 +60,4 @@ let delimitMate_expand_cr=1
 " Initialize plugin system
 call plug#end()
 
-nmap <F2> :NERDTREE<CR>
+nmap <F2> :NERDTree<CR>
