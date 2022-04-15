@@ -4,6 +4,7 @@ nvim_enviroment
 # Guide
 
 1. Install neovim
-2. clone this on user directory (for example, ~/)
-3. cd .nvim_env
-4. run script (if needed, chmod 744)
+2. create neovim config directory (~/.config)
+3. clone this on user directory (for example, ~/)
+4. cd .nvim_env
+5. run script
